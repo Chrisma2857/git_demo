@@ -6,4 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick and simple.
 no fast forward
 Git is a free software.
-
+fix bug 102.
